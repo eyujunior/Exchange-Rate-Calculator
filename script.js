@@ -21,7 +21,6 @@ function calculate() {
 
       amountEl_two.value = (amountEl_one.value * rate).toFixed(2);
     });
-
 }
 
 //Event listeners
